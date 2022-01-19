@@ -1,4 +1,4 @@
-# My work assignment Title
+# My example work assignment Title
 
 Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ALPHA : [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
 
@@ -25,6 +25,7 @@ _Indicate the technologies you have used in this assignment. Please provide link
 * Javascript
 * PHP
 * nodeJS
+* Java
 * _Any other?_
 
 ### Frameworks and Libraries
